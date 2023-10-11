@@ -1,4 +1,4 @@
-# 3D_Product_Designer_Web_App
+# T-shirt-3D-Styling
 This is a 3D product design website where users can design clothes using a web-based interface. The website is built using React and Tailwind CSS on the front-end, and Express.js on the back-end.
 
 ## Features
@@ -22,20 +22,20 @@ To get started with the project, follow the instructions below:
 
 1. Clone the repository: Start by cloning this repository to your local machine using the following command:
 ```
-git clone https://github.com/raj007-aii/3D_Product_Designer_Web_App.git
+https://github.com/Mohit-1909/T-shirt-3D-Styling.git
 ```
 2. Navigate to the project directory: 
 ```
-cd 3d-product-design-website/client
+cd T-shirt-3D-Styling/client
 ```
 3. Install dependencies: Navigate to the project directory and install the dependencies for both the front-end and back-end
 ```
-cd 3D_Product_Designer_Web_App/client
+cd T-shirt-3D-Styling/client
 
 # Install front-end dependencies
 npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion   
 
-cd 3D_Product_Designer_Web_App/server
+cd T-shirt-3D-Styling/server
 
 # Install back-end dependencies
 npm install cloudinary cors dotenv express mongoose nodemon openai
